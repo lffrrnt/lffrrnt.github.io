@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Irem Topal
 
 # Your name to show in the footer
-author: Some Person
+author: Irem Topal
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research:
+    - Google Scholar: "https://beautifuljekyll.com"
+    - Research Gate: "https://www.markdowntutorial.com/"
+  Blog: "https://deanattali.com"
 
 # --- Logo --- #
 
