@@ -112,8 +112,8 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "/assets/img/pexels-stas-knop-3760323.jpg"
-footer-img: "/assets/img/pexels-pixabay-159751.jpg"
-page-img: "/assets/img/pexels-iconcom-479453.jpg"
+footer-img: "/assets/img/pexels-iconcom-479453.jpg"
+page-img: "/assets/img/pexels-milo-textures-2768398.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
