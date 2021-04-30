@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi there,
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a PhD candidate in the Computational Sciences and Engineering Program of Kadir Has University. I am currently work in [Nodds Lab](https://nodds.khas.edu.tr/) under the supervision of Dr. Deniz Eroglu. My research focuses on time series analysis by combining dynamical systems and machine learning. In particular, I am interested in data-driven network neuroscience. For more information on my current projects visit the Research tab !  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### A little bit background of mine 
 
-What else do you need?
+I have a BSc and MSc in Physics Engineering from Istanbul Technical University. I studied molecular dynamics until I started PhD in the same department. After completed courses and passed the qualification exams I transferred my PhD to Kadir Has University for the reserach project I work on now. In this former Phd, I was working on statistical physics motivation analysis of artificial neural networks to understand their success on learning tasks. 
 
-### My story
+In addition to my main line of research, I have broad interest in the works on social dynamics. My passion on understanding the emergence of collective behaviour in social networks has started with one course. Also, I read mostly on the concept of casuality in machine learning. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I draw the characters from my favorite movies and series. I have a personal blog in Turkish. I am passionate about Istanbul. I also love decoration but I didn't know this interest before I stuck at home...
