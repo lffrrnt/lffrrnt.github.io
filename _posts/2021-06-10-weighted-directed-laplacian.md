@@ -1,10 +1,8 @@
 ---
 layout: post
-title: How to create a directed and weighted scale-free network with NetworkX
-subtitle: dusun
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Creating directed and weighted scale-free network using NetworkX
+subtitle: 
+tags: [code]
 comments: true
 ---
 I work on network dynamics just for two years. My research is based on time series analysis primarily, and I use the python library NetworkX to create networks and do some fundamental analysis. 
