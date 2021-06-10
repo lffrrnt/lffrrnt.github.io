@@ -8,6 +8,7 @@ tags: [test]
 comments: true
 ---
 I work on network dynamics just for two years. My research is based on time series analysis primarily, and I use the python library NetworkX to create networks and do some fundamental analysis. 
+
 At the beginning of my research, I was using undirected scale-free networks and obtaining an adjacency or Laplacian matrix for a desired-size network was enough. Using NetworkX was easy, and the documentation was user friendly for this kind of basics. Then I needed to study weighted and directed scale-free networks, and things have changed. If I wrote the code to generate the Laplacian matrix of a scale-free weighted and directed network, it would take less time. But, I wanted to make it using Networkx to feel more comfortable with it and decided to write my first blog post.
 
 ```python
