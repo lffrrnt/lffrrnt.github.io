@@ -34,6 +34,6 @@ def network_generate(n,eta):
 
 ```
 
-This code returns the network object, adjacency matrix and the Laplacian matrix of the weighted and directed network. The size of the network and measurement for weights are the only inputs. Since the distribution of the weights is essential, the parallel links and self-loops are removed. Adjacency matrix was computed from in-degree distribution due to the application. Also, the Laplacian matrix should be zero row-sum, so this function finds the number of connection on node $i$ concerning the weighted links. 
+This code returns the network object, adjacency matrix and the Laplacian matrix of the weighted and directed network. The size of the network and measurement for weights are the only inputs. Since the distribution of the weights is essential, the parallel links and self-loops are removed. Adjacency matrix was computed from in-degree distribution due to the application. Also, the Laplacian matrix should be zero row-sum, so this function finds the number of connection on node _i_ concerning the weighted links. 
 
 Finally, if you want to tune the weights and need a zero row-sum Laplacian and persist in using NetworkX, you can use this function.  
