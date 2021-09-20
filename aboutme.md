@@ -4,7 +4,7 @@ title: About me
 subtitle: Hi there,
 ---
 
-I am a PhD candidate in the Computational Sciences and Engineering Program of Kadir Has University. I am currently work in [Nodds Lab](https://nodds.khas.edu.tr/) under the supervision of Dr. Deniz Eroglu. My research focuses on time series analysis by combining dynamical systems and machine learning. In particular, I am interested in data-driven network neuroscience. For more information on my current projects visit the Research tab !  
+I am a PhD candidate in the Computational Sciences and Engineering Program of Kadir Has University. I currently work in [Nodds Lab](https://nodds.khas.edu.tr/) under the supervision of Dr. Deniz Eroglu. My research focuses on time series analysis by combining dynamical systems and machine learning. In particular, I am interested in data-driven network neuroscience. For more information on my current projects visit the Research tab !  
 
 ### A little bit background of mine 
 
