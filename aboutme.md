@@ -10,4 +10,4 @@ I am a postdoctoral researcher in the Department of Biomedical Sciences at the U
 
 I have a BSc and MSc in Physics Engineering from Istanbul Technical University. I got my PhD in the Computational Sciences and Engineering Program at Kadir Has University, Istanbul, working on data-driven network reconstruction. My research focuses on complex systems through the lens of statistical physics. In addition to biological systems, I have a broad interest in social systems, mainly phase transitions and criticality phenomena in social networks.
 
-I like drawing characters from my favourite movies and series. I have a personal blog in Turkish which I write mostly on daily life - politics and feminism. Also, I write movie critics on a cinema blog. I am passionate about Istanbul. 
+I like drawing characters from my favourite movies and series. I have a personal blog in Turkish, on which I write mostly about daily life, politics, and feminism. I also write movie critics on a cinema blog. I am passionate about Istanbul. 
