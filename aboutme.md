@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi there,
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a postdoctoral researcher in the Department of Biomedical Sciences at the University of Padova. I currently work on the brain criticality hypothesis. For more information on my current projects visit the Research tab !  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### A little bit background of mine 
 
-What else do you need?
+I have a BSc and MSc in Physics Engineering from Istanbul Technical University. I got my PhD in the Computational Sciences and Engineering Program at Kadir Has University, Istanbul, working on data-driven network reconstruction. My research focuses on complex systems through the lens of statistical physics. In addition to biological systems, I have a broad interest in social systems, mainly phase transitions and criticality phenomena in social networks.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I like drawing characters from my favourite movies and series. I have a personal blog in Turkish which I write mostly on daily life - politics and feminism. Also, I write movie critics on a cinema blog. I am passionate about Istanbul. 
